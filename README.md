@@ -1,3 +1,3 @@
 # git_test
 odin project
-Hello Odin! - UsefulProgram.org
+Hello Odin! - MOI
